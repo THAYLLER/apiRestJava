@@ -7,6 +7,8 @@
   * [x] MAVEN
   * [x] SPRING BOOT
   * [x] JUNIT
+ * [x] Integração continua
+   * [x] Travis
   
 ## PROPOSTA DESSE PROJETO
 Desenvolver uma api rest, que realize consultas em GET no intuito de filtar informações do arquivo baseDadosOfertas.txt
