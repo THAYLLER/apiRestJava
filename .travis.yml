@@ -1,2 +1,6 @@
 language: java
-sudo: enabled
+sudo: true
+addons:
+  apt:
+    packages:
+      - oracle-java8-installer
