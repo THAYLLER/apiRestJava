@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.api.rest.services.implementations.OfertasServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.268 s <<< FAILURE! - in com.api.rest.services.implementations.OfertasServiceImplTest
+testFindAll(com.api.rest.services.implementations.OfertasServiceImplTest)  Time elapsed: 0.212 s  <<< FAILURE!
+java.lang.AssertionError: expected:<null> but was:<[com.api.rest.models.Ofertas@53093491, com.api.rest.models.Ofertas@21719a0, com.api.rest.models.Ofertas@76b224cd, com.api.rest.models.Ofertas@77ee25f1, com.api.rest.models.Ofertas@6dd93a21, com.api.rest.models.Ofertas@57b9e423]>
+	at com.api.rest.services.implementations.OfertasServiceImplTest.testFindAll(OfertasServiceImplTest.java:52)
+
+testFindStatus(com.api.rest.services.implementations.OfertasServiceImplTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.api.rest.services.implementations.OfertasServiceImplTest.testFindStatus(OfertasServiceImplTest.java:84)
+
+testLerTxt(com.api.rest.services.implementations.OfertasServiceImplTest)  Time elapsed: 0.056 s  <<< FAILURE!
+java.lang.AssertionError: expected:<null> but was:<java.io.BufferedReader@38548b19>
+	at com.api.rest.services.implementations.OfertasServiceImplTest.testLerTxt(OfertasServiceImplTest.java:67)
+
