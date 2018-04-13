@@ -1,0 +1,6 @@
+/home/thayller/NetBeansProjects/apiRest/src/main/java/com/api/rest/ApiRestApplication.java
+/home/thayller/NetBeansProjects/apiRest/src/main/java/com/api/rest/web/controllers/OfertasController.java
+/home/thayller/NetBeansProjects/apiRest/src/main/java/com/api/rest/models/Ofertas.java
+/home/thayller/NetBeansProjects/apiRest/src/main/java/com/api/rest/services/implementations/OfertasServiceImpl.java
+/home/thayller/NetBeansProjects/apiRest/src/main/java/com/api/rest/services/CustomerService.java
+/home/thayller/NetBeansProjects/apiRest/src/main/java/com/api/rest/services/OfertasService.java

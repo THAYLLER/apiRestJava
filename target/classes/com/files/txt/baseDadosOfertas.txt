@@ -1,0 +1,7 @@
+categoria;titulo;descricao_oferta;anunciante;valor;destaque
+restaurante;Super Burger;Rodízio de Mini-hambúrger com opção de entrada.;Original Burger;29.90;true
+restaurante;Cozinha Mexicana;Almoço ou Jantar com Rodízio Mexicano delicioso.;Mexicana;32.90;true
+restaurante;Pizzas Grandes;Pizza Grande, Mussarela, Marguerita ou outras!;Nossa Pizza;21.90;false
+diversao;Estância das águas;Diversão garantida com piscinas, trilhas e muito mais.;Estância das águas;31.90;true
+diversao;Kart;Bateria de Kart de 30 minutos.;Speed Kart;54.90;false
+diversao;Academia de tiro;"Sessão de tiro dinâmico com Instrutor, Estande, Alvo e Equipamentos.;Academia de Tiro;89.90;false

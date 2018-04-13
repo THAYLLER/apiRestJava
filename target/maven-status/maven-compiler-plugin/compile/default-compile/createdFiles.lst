@@ -1,0 +1,6 @@
+com/api/rest/services/implementations/OfertasServiceImpl.class
+com/api/rest/web/controllers/OfertasController.class
+com/api/rest/services/CustomerService.class
+com/api/rest/services/OfertasService.class
+com/api/rest/models/Ofertas.class
+com/api/rest/ApiRestApplication.class
