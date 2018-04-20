@@ -9,6 +9,7 @@
   * [x] JUNIT
  * [x] Integração continua
    * [x] Travis
+   * [x] CircleCi
   
 ## PROPOSTA DESSE PROJETO
 Desenvolver uma api rest, que realize consultas em GET no intuito de filtar informações do arquivo baseDadosOfertas.txt
