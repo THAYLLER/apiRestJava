@@ -21,7 +21,7 @@ java -jar apiRest-0.0.1-SNAPSHOT.ja
 ```
 
 ## AndPoints 
-
+ 
 ```
 http://localhost:8080/ofertas/filter/all
 ```
